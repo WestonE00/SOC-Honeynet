@@ -51,7 +51,7 @@ Stop Time  2024-03-03 4:14:39
 | SecurityIncident         | 467
 | AzureNetworkAnalytics_CL | 2453
 
-## Attack Maps Before Hardening / Security Controls
+## Attack Maps After Hardening / Security Controls
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
